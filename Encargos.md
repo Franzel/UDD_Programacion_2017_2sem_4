@@ -38,33 +38,10 @@
 ###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_2sem_4)*
 
 
- ---
-
-
-## Encargo 02 (E02): Ejercicio 1, Dibujo en Mouse
-* Calificación: **10%** nota presentación a Examen
-
-**Descripción:**
-* Hacer que en el mouse dibuje un circulo al mantener apretado. El tamaño y el color del círculo estaran dados por una variable que definiremos al inicio del sketch y que podemos variar. Establecer 3 estados para el dibujo dependiendo si se presiona la tecla 'a', 's' ó 'd', ya sea que cambie de color, tamaño, que dibuje otra figura, etc
-
-**Formato de entrega:**
-* Tanto la carpeta y archivo `.pde` deben llamarse igual. Ambas utilizarán la siguiente nomenclatura: **`E02_Apellido_Nombre`**
-
-**Dónde/Cuándo entregar:**
-* Subir el archivo .zip a [esta carpeta Dropbox](https://www.dropbox.com/request/Yt74sdLQBoZ6yiX8Re7G)
-
-**Evaluación y multas:**
-* **Criterios de evaluación:**
-  * Funcionamiento correcto, comentarios y limpieza de codigo.
-  * Creatividad de variación entre los tres estados
-  * Uso correcto de variables
-* **Entregas tardías:** bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
-* **Especificaciones:** Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
-
 ---
 
 
-## Encargo 03 (E03): hyperBrush
+## Encargo 02 (E02): hyperBrush
 * Calificación: **30%** nota presentación a Examen
 
 **Descripción:**
@@ -100,7 +77,7 @@
   Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
 
 ---
-## Encargo 04 (E04): patronInteractivo
+## Encargo 03 (E03): patronInteractivo
 
 **Descripción:**
 * Crear una composición interactiva en base a For Loops.
@@ -128,7 +105,7 @@
   Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
 
 ---
-## Encargo 05 (E05): Experimenta
+## Encargo 04 (E04): Experimenta
 * Inicio: Semana 05
 * Calificación: **30%** (del 70% nota final)
 * Crear una pieza de experimentación con todo lo que hemos aprendido hasta ahora, en especial el uso de funciones, for loops y arrays
@@ -162,7 +139,7 @@ Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, 
 ---
 ### Examen: Poster Interactivo
 * Inicio: Semana 06
-* Entrega Final : Semana 08
+* Entrega Final : Semana 07
 * Calificación: **30%** (del 100% calificación final del curso)
 
 #### Descripción
