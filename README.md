@@ -1,8 +1,6 @@
-# UDD_Programacion_2017_2sem_4
+# UDD_Programación, Segundo Semestre 2017
 Repositorio curso programacion Diseño UDD, 4to bimestre
 
-
-# UDD_Programación, Segundo Semestre 2017
 #### Profesor Francisco Zamorano / Ayudante Vicente Politeo
 
 
