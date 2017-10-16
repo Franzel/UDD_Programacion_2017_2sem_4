@@ -40,3 +40,26 @@
     * **EX02 - Final**
       * S8 - Miércoles 06 de Diciembre, 4:00PM
       * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/baex2vwiVaO7QVa0aZzP)
+
+
+## Calendario de clases y ayudantías
+
+
+Fecha | Tipo | Entrega/Actividad
+------------ | ------------- | ---
+lun. 16 de octubre	| AYUDANTIA	| 
+mié. 18 de octubre	| CLASE	S1	|
+lun. 23 de octubre	| AYUDANTIA	|
+mié. 25 de octubre	| CLASE	S2	| E01 ClonArte
+lun. 30 de octubre	| AYUDANTIA	|
+mié. 1 de noviembre	| **FERIADO** |	
+lun. 6 de noviembre	| AYUDANTIA		|
+mié. 8 de noviembre	| CLASE	S3	 | E02 HyperBrush
+lun. 13 de noviembre |	AYUDANTIA		|
+mié. 15 de noviembre | CLASE	S4	 | E03 ForLoops
+lun. 20 de noviembre | AYUDANTIA		|
+mié. 22 de noviembre |CLASE	S5	 | E04 Experimenta
+lun. 27 de noviembre | AYUDANTIA		|
+mié. 29 de noviembre | CLASE	S6	 | EX01 Examen Anteproyecto
+lun. 4 de diciembre | AYUDANTIA		|
+mié. 6 de diciembre	| CLASE	S7 	 | EX02 Examen Final
