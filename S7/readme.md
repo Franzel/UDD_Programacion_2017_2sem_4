@@ -15,4 +15,4 @@
 [Communion - Universal Everything] (http://universaleverything.com/projects/communion/)
 [Logo generativo MIT 2011](https://www.fastcodesign.com/1663378/mit-media-labs-brilliant-new-logo-has-40000-permutations-video)
 
-###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_1sem)*
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_2sem_4)*

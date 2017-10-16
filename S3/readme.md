@@ -12,12 +12,9 @@
 
 
 ## Para la próxima semana
-### Encargo 03: hyperBrush
-Ver [acá](https://github.com/Franzel/UDD_Programacion_2017_2sem/blob/master/Encargos.md#encargo-03-e03-hyperbrush)
-
 ### Video Sugerido
 * [Estructuras de Control](https://www.acamica.com/clases/373/programacion-creativa-con-processing/estructuras-de-control-condicionales)
 
 
 
-###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_2sem)*
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_2sem_4)*

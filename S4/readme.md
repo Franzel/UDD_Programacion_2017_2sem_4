@@ -10,9 +10,5 @@
 * Strings
 * Operador matemático: módulo `%`
 
-## Para la próxima semana
-Encargo 04: patronInteractivo
 
-
-
-###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_2sem)*
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_2sem_4)*
