@@ -16,7 +16,7 @@
   * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/33OfZK3xQVq3Ik40UBRq)
 
 
-* **E03 - For Loops**
+* **E03 - patronInteractivo**
   * Tipo: Ejercicio
   * Peso: 10% nota presentación a Examen
   * Entrega: S4 - Miércoles 15 de Noviembre, 2:00PM

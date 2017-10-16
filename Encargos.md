@@ -2,7 +2,7 @@
 
 ---
 ## Encargo 01 (E01): clonArte
-  * Calificación: **20%** nota presentación a Examen
+  * Calificación: **10%** nota presentación a Examen
 
 **Descripción:**
 * Re-interpretar una pieza gráfica, artística, fotográfica o plástica, en una vista recortada de 400x400 pixeles, utilizando estas funciones:
@@ -24,8 +24,8 @@
 * Comprimir en .zip la carpeta que contiene el sketch de Processing y la imagen original recortada.
 
 **Dónde/Cuándo entregar:**
-* Subir el archivo .zip a [esta carpeta Dropbox](https://www.dropbox.com/request/oGbvG4j1OisWYqUSjV8H)
-* **Fecha y hora límite:** Miércoles 16 de Agosto a las 2:00 PM
+* Subir el archivo .zip a [esta carpeta Dropbox](https://www.dropbox.com/request/CL4dZLEXiOL2k60VdsMC)
+* **Fecha y hora límite:** Miércoles 25 de Octubre, 2:00 PM
 
 **Evaluación y multas:**
 * **Criterios de evaluación:**
@@ -63,7 +63,8 @@
   * La carpeta se comprime en .zip antes de ser entregada (subida).
 
 **Dónde entregar:**
-  * Subir el archivo .zip a [esta carpeta Dropbox](https://www.dropbox.com/request/l6RfF23kbovGKSx2T4Ro)
+  * Subir el archivo .zip a [esta carpeta Dropbox](https://www.dropbox.com/request/33OfZK3xQVq3Ik40UBRq)
+  * **Fecha y hora límite:** Miércoles 08 de Noviembre, 2:00 PM
 
 **Criterios de Evaluación :**
 * Expresividad, complejidad y novedad de la herramienta. Si es desafiante, mejor. Mientras más entretenida de usar y mas bello e interesante lo que se pinta, mejor será calificada.
@@ -78,6 +79,7 @@
 
 ---
 ## Encargo 03 (E03): patronInteractivo
+* Calificación: **20%** nota presentación a Examen
 
 **Descripción:**
 * Crear una composición interactiva en base a For Loops.
@@ -91,7 +93,9 @@
 * En las primeras líneas del sketch de processing se especificará el nombre del autor, fecha y nombre del sketch
 
 **Dónde entregar:**
-  * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/0qDylOEq1oVl787OrGk2)
+  * Subir el archivo .zip [esta carpeta Dropbox](https://www.dropbox.com/request/TJ6KhNTsNkMCNPPRcTFC)
+  * **Fecha y hora límite:** Miércoles 15 de Noviembre, 2:00PM
+
 
 **Criterios de evaluación:**
   * Expresividad, complejidad y novedad de la herramienta. Si es desafiante, mejor.
@@ -107,7 +111,7 @@
 ---
 ## Encargo 04 (E04): Experimenta
 * Inicio: Semana 05
-* Calificación: **30%** (del 70% nota final)
+* Calificación: **30%** nota presentación a Examen
 * Crear una pieza de experimentación con todo lo que hemos aprendido hasta ahora, en especial el uso de funciones, for loops y arrays
 * Debe sí o sí usar arrays.
 * Este encargo es de naturaleza bastante libre, por lo que se pondrá especial énfasis a el aspecto creativo y estético.
@@ -117,8 +121,8 @@
 * En las primeras líneas del sketch de processing se especificará el nombre del autor, fecha, nombre del sketch y una breve explicación de la intención.
 
 **Dónde entregar:**
-* Subir el la carpeta de su sketch a [esta carpeta de dropbox](
-https://www.dropbox.com/request/dH6XINhEFVepY0j0hJm9) antes de las 2pm del Miercoles 13 de Septiembre, previo al curso.
+* Subir el la carpeta de su sketch a [esta carpeta de dropbox](https://www.dropbox.com/request/bNG8s1kUNmuha5GU8pZx)
+* **Fecha y hora límite:** Miércoles 22 de Noviembre, 2:00PM
 
 **Criterios de evaluación:**
 * Expresividad, complejidad y novedad de la estetica e interacción.
@@ -137,8 +141,9 @@ Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, 
 
 
 ---
-### Examen: Poster Interactivo
-* Inicio: Semana 06
+## Examen: Poster Interactivo
+* Inicio: Semana 05
+* Entrega Avance: Semana 06
 * Entrega Final : Semana 07
 * Calificación: **30%** (del 100% calificación final del curso)
 
