@@ -58,7 +58,7 @@
 
 
 **Formato de entrega:**
-  * Se entrega una sola carpeta, cuyo nombre es idéntico al del sketch de processing que contiene. Se utilizará la siguiente nomenclatura: **`E03_Apellido_Nombre`**
+  * Se entrega una sola carpeta, cuyo nombre es idéntico al del sketch de processing que contiene. Se utilizará la siguiente nomenclatura: **`E02_Apellido_Nombre`**
   * Junto al archivo `.pde` adjuntar una captura de imagen del sketch (En formato JPG), mostrando un ejemplo de lo que se puede pintar con la herramienta.
   * La carpeta se comprime en .zip antes de ser entregada (subida).
 
@@ -89,7 +89,7 @@
 
 
 **Formato de entrega:**
-* La carpeta que se entrega utilizará la siguiente nomenclatura: **`E04_Apellido_Nombre.zip`**
+* La carpeta que se entrega utilizará la siguiente nomenclatura: **`E03_Apellido_Nombre.zip`**
 * En las primeras líneas del sketch de processing se especificará el nombre del autor, fecha y nombre del sketch
 
 **Dónde entregar:**
@@ -117,7 +117,7 @@
 * Este encargo es de naturaleza bastante libre, por lo que se pondrá especial énfasis a el aspecto creativo y estético.
 
 **Formato de entrega:**
-* La carpeta que se entrega utilizará la siguiente nomenclatura: **`E05_Apellido_Nombre.zip`**
+* La carpeta que se entrega utilizará la siguiente nomenclatura: **`E04_Apellido_Nombre.zip`**
 * En las primeras líneas del sketch de processing se especificará el nombre del autor, fecha, nombre del sketch y una breve explicación de la intención.
 
 **Dónde entregar:**
@@ -158,7 +158,7 @@ Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, 
 * El poster impreso debe ser hecho a partir de una captura pdf de la composición. Hay que escoger un momento y capturarlo. El formato del poster será definido en los próximos días.
 
 #### Etapas de Entrega:
-**Semana 07: Anteproyecto**
+**Semana 06: Anteproyecto**
 - Cada alumno presentará (en 3 minutos máximo) lo que se pretende hacer.
 - La presentación debe incluir:
   - Uno o más esquemas de lo que se quiere hacer, es decir, dibujar y esquematizar tanto la funcionalidad, interacción y visualidad del resultado final.
@@ -168,7 +168,7 @@ Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, 
   - Entregar un pdf, en formato horizontal, máximo de 2 hojas que explique en forma clara y concisa lo descrito más arriba.
   - ***ver formatos de entrega más abajo***
 
-**Semana 08: Entrega Final**
+**Semana 07: Entrega Final**
 - Cada alumno presentará (en 3 minutos máximo) el estado final del proyecto.
 - La presentación debe incluir:
   - Colgar el poster junto a su computador.
@@ -181,11 +181,11 @@ Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, 
 ###### **Anteproyecto**:
 - Carpeta comprimida en .zip, que incluye el pdf y el sketch de processing
 - Nomenclatura: **`EX_01_Apellido_Nombre.zip`**
-- Subir el archivo .zip a [esta carpeta de dropbox](https://www.dropbox.com/request/1nskefjZWuQ6h3MlwhDn) antes de las 14:00 del Miércoles 27 de Septiembre, previo al curso.
+- Subir el archivo .zip a [esta carpeta de dropbox](https://www.dropbox.com/request/tSYkKijiBQlj2q0hHHK3) antes de las 14:00 del Miércoles 29 de Noviembre, previo al curso.
 
 ###### **Final:**
-- Nomenclatura: **`EX_FINAL_apellido_Nombre.zip`**
-- Subir el archivo .zip a [esta carpeta de dropbox](https://www.dropbox.com/request/Egl1aD04ZxK2YTdVUgtv) antes de las 14:00 del Miércoles 04 de Octubre, previo al curso.
+- Nomenclatura: **`EX_FINAL_Apellido_Nombre.zip`**
+- Subir el archivo .zip a [esta carpeta de dropbox](https://www.dropbox.com/request/baex2vwiVaO7QVa0aZzP) antes de las 14:00 del Miércoles 06 de Diciembre, previo al curso.
 
 
 **Evaluación y multas:**
