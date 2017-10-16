@@ -194,6 +194,7 @@ Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, 
   * Aplicación creativa de conocimientos, riqueza del sistema y capacidades gráficas
   * Limpieza, depuración y nivel de comentarios del código
 ###### **Entregas tardías:**
-Bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
+No se aceptan entregas tardías
+
 ###### **Especificaciones:**
 Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
