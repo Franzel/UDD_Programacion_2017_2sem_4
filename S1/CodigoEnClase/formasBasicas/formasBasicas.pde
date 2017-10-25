@@ -1,0 +1,9 @@
+size(400,400);
+background(255);
+line(0,400,400,0);
+fill(0,0,200);
+rect(150,150,100,100);
+fill(255,0,0);
+strokeWeight(20);
+stroke(0,255,0);
+ellipse(100,100,100,100);
