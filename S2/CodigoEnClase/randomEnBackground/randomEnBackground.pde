@@ -1,1 +1,0 @@
-background(random(255),random(255),0);

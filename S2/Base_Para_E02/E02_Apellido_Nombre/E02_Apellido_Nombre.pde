@@ -31,4 +31,11 @@ void keyPressed() {
     miPorte = 50;//modificamos variable
     //aca modificar las otras variables
   }
+  if (key=='f') {
+    miPorte = 100;//modificamos variable
+    //aca modificar las otras variables
+  }
+  if (key=='c') {
+    background(255);//pintamos-borramos con background
+  }
 }
