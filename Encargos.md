@@ -55,6 +55,8 @@
   * Mientras más expresiva sea la herramienta, mejor!!!!
   * Si se usa `random()`, deberá usarse con intención y moderación.
   * Puntos extra si se le integra algún tipo de animación
+* Para facilitar el desarrollo, se provee una base de código que se encuentra en la carpeta de esta semana.
+* Debe tener 5 puntos de interacción con teclado (ver base entregada), utilizando las teclas `a`, `s`, `d`y `f`, la tecla `c` se reserva para limpiar el canvas.
 
 
 **Formato de entrega:**
