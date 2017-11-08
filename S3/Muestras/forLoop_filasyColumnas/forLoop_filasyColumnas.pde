@@ -7,19 +7,13 @@ void setup() {
   colorMode(HSB,360,100,100);
 }
 
-
 void draw() {
-
   background(0);
   for (int i=0; i<nColumnas; i++) {
-    fill(255);
-    //rect(30*i, 30, 30, 30);
-
     for (int j=0; j<nFilas; j++) {
-      fill(random(255), random(255), random(255));
-      //fill(20*i, 5*j, 100);
+      //fill(random(255), random(255), random(255));//color random
+      fill(20*i, 5*j, 100); // gradiente
       ellipse(30*i, 30*j, 30, 30);
-      //ellipse(30*i, 30*j, random(10, 30), random(10, 30));
     }
   }
 }

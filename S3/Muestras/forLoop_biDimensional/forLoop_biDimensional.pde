@@ -1,33 +1,17 @@
-int mod = 1;
+float espacio;
 
 void setup() {
-  size(500, 500);
-
-  smooth();
+  size(800, 800);
+  espacio = 20;
 }
 
 void draw() {
- 
-
-  background(255);
-  for (int x=0; x<width; x++) {
-    for (int y=0; y<height; y++) {
-      if (x%mod==0 || y%mod==0) {
-        fill(255, 0, 0);
-      } else {
-        fill(0, 20, 0);
-      }
-      ellipse(x*10, y*10, 10, 10);
+  background (250, 50, 250);
+  
+  //For loop biDimensional
+  for (int i=0; i<width; i++) {
+    for (int j=0; j<height; j++) {
+      rect(espacio * i, espacio * j, 10, 10);
     }
   }
-}
-
-void keyPressed(){
- if(keyCode==RIGHT){
-  mod ++;
- }
- if(keyCode==LEFT&&mod>0){
-  mod--; 
- }
- println(mod);
 }
