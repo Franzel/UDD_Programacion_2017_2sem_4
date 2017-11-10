@@ -187,7 +187,7 @@ Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, 
 
 ###### **Final:**
 - Nomenclatura: **`EX_FINAL_Apellido_Nombre.zip`**
-- Subir el archivo .zip a [esta carpeta de dropbox](https://www.dropbox.com/request/baex2vwiVaO7QVa0aZzP) antes de las 14:00 del Miércoles 06 de Diciembre, previo al curso.
+- Subir el archivo .zip a [esta carpeta de dropbox](https://www.dropbox.com/request/baex2vwiVaO7QVa0aZzP) antes de las 14:00 del Lunes 04 de Diciembre, previo al curso.
 
 
 **Evaluación y multas:**

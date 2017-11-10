@@ -38,7 +38,7 @@
       * S7 - Miércoles 29 de Noviembre, 2:00PM
       * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/tSYkKijiBQlj2q0hHHK3)
     * **EX02 - Final**
-      * S8 - Miércoles 06 de Diciembre, 4:00PM
+      * S8 - Lunes 04 de Diciembre, 4:00PM
       * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/baex2vwiVaO7QVa0aZzP)
 
 
@@ -47,12 +47,12 @@
 
 Fecha | Tipo | Entrega/Actividad
 ------------ | ------------- | ---
-lun. 16 de octubre	| AYUDANTIA	| 
+lun. 16 de octubre	| AYUDANTIA	|
 mié. 18 de octubre	| CLASE	S1	|
 lun. 23 de octubre	| AYUDANTIA	|
 mié. 25 de octubre	| CLASE	S2	| E01 ClonArte
 lun. 30 de octubre	| AYUDANTIA	|
-mié. 1 de noviembre	| **FERIADO** |	
+mié. 1 de noviembre	| **FERIADO** |
 lun. 6 de noviembre	| AYUDANTIA		|
 mié. 8 de noviembre	| CLASE	S3	 | E02 HyperBrush
 lun. 13 de noviembre |	AYUDANTIA		|
