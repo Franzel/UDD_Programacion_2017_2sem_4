@@ -112,7 +112,7 @@
 
 ---
 ## Encargo 04 (E04): Experimenta
-* Inicio: Semana 05
+* Inicio: Semana 04
 * Calificación: **30%** nota presentación a Examen
 * Crear una pieza de experimentación con todo lo que hemos aprendido hasta ahora, en especial el uso de funciones, for loops y arrays
 * Debe sí o sí usar arrays.
