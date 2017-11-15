@@ -61,5 +61,4 @@ lun. 20 de noviembre | AYUDANTIA		|
 mié. 22 de noviembre |CLASE	S5	 | E04 Experimenta
 lun. 27 de noviembre | AYUDANTIA		|
 mié. 29 de noviembre | CLASE	S6	 | EX01 Examen Anteproyecto
-lun. 4 de diciembre | AYUDANTIA		|
-mié. 6 de diciembre	| CLASE	S7 	 | EX02 Examen Final
+lun. 4 de diciembre	| CLASE	S7 	 | EX02 Examen Final
