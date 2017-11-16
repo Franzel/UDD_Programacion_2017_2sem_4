@@ -1,29 +1,34 @@
-int nElementos = 250;
+int nElementos = 200;
 float [] valores = new float [nElementos];
 color [] colores = new color [nElementos];
+float separacion;
 
 void setup() {
   size(500, 500);
-  colorMode(HSB, 250, 100, 100);
+  colorMode(HSB, 500, 100, 100);
+
   //Asignamos valores a los arrays
   for (int i=0; i<valores.length; i++) {
-    valores[i] = random(height);
+    valores[i] = random(height/3, height);
     colores[i] = color(i, 100, 100);
   }
-  println(valores);
+  //println(valores);
+
+  separacion = width/float(nElementos); //una tecnica para que siempre abarquen todo el ancho, independiente de la cant. de elementos
+  println(separacion);
 }
 
 void draw() {
-  background(0);
+  background(30, 90, 20);
   for (int i=0; i<valores.length; i++) {
     stroke(colores[i]); //usamos el array de colores para pintar cada linea
-    line(2*i, 0, 2*i, valores[i]); //usamos el array de 'valors´para el largo de cada linea
+    line(separacion*i, 0, separacion*i, valores[i]); //usamos el array de 'valores´para el largo de cada linea
   }
 }
 
 void randomizar() {
   for (int i=0; i<valores.length; i++) {
-    valores[i] = random(height);
+    valores[i] = random(height/3, height);
   }
 }
 
@@ -34,7 +39,7 @@ void acortar() {
 }
 
 void mousePressed() {
-    randomizar();
+  randomizar();
 }
 
 void keyPressed() {
