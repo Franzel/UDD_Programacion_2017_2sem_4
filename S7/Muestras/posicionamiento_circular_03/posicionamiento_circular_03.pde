@@ -16,7 +16,6 @@ void setup() {
   //Si la dividimos por la cantidad de elementos,
   //vamos a obtener una distribucion pareja que ocupa los 360 grados
   angle = TWO_PI / nElementos; 
-
   radio = 100;
   origenX = width/2;
   origenY = height/2;

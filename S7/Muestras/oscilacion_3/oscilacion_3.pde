@@ -19,7 +19,7 @@ void setup() {
 void draw() {
   //background(27);
   
-  vel  = frameCount*0.01;
+  vel  = frameCount*0.02;
   posX = width/2  + sin(vel)*radio;
   posY = height/2 + cos(vel)*radio;
 
