@@ -3,8 +3,6 @@ float posX;
 float posY;
 float sizeX, sizeY;
 
-
-
 void setup() {
   size(800, 300);
   background(0);
@@ -14,7 +12,6 @@ void setup() {
   sizeY = 100;
   noStroke();
 }
-
 
 void draw() {
   fill(255);
