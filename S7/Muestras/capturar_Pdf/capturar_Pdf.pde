@@ -1,11 +1,11 @@
-// Basado en ejemplo por Casey Reas  - https://processing.org/tutorials/print/
+// odigo para capturar PDF
+//Basado en ejemplo por Casey Reas  - https://processing.org/tutorials/print/
 
-
-import processing.pdf.*;
+import processing.pdf.*; //usaremos la librería de PDF incluida en processing
 boolean saveImage;
 
-void setup(){
-  
+void setup() {
+  size(800,600);
 }
 
 void draw() {
@@ -14,7 +14,11 @@ void draw() {
   }
 
   // Mi Codigo Aca
-
+  background(#c9ee26);
+  ellipse(width/2, height/2, mouseX, mouseY);
+  
+  
+  //esto debe ir antes del final del draw, despues de mi código
   if (saveImage) {
     endRecord();
     saveImage = false;
@@ -23,7 +27,7 @@ void draw() {
 
 
 void keyPressed() {
-  if (key=='s') {
+  if (key=='r') {
     saveImage=true;
   }
 }
