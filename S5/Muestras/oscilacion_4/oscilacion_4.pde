@@ -26,6 +26,6 @@ void draw() {
   posX = width/2  + sin(vel)*radio;
   posY = height/2 + cos(vel)*radio;
 
-  fill(sin(vel/2)*radio, 100, 100);
+  fill(sin(vel*6.6)*radio, 100, 100);
   ellipse(posX, posY, sizeX, sizeY);
 }
