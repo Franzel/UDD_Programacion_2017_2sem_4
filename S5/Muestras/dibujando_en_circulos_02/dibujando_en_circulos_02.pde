@@ -30,6 +30,7 @@ void draw() {
   //El loop de 'j' dibuja un solo anillo(ver ejemlplo anterior)
   //cada vez que dibujamos cada anillo incrementamos el radio,
   //asi en cada vuelta se va dibujando cada vez mas lejos del centro 
+  background(255);
 
   for (int i = 0; i<nAnillos; i++) { //loop para crear anillos
     float radio = radioInicial + espacioAnillos*i; // en cada loop de 'i', incrementamos el radio en 20px

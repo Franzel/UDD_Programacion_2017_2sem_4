@@ -7,7 +7,7 @@ void setup() {
 	origenX = width/2; //mitad del ancho del canvas
 	origenY = height/2; //mitad del alto del canvas
 	radio = 100; //incicializamos el radio, lo vamos a modificar despues
-	nElementos = 36; 
+	nElementos = 12; 
 }
 
 void draw() {
